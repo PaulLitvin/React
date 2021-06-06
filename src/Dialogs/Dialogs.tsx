@@ -4,7 +4,7 @@ import { DialogsWrapper } from './DialogStyled';
 const Dialogs = () => {
     return (
         <>
-            <DialogsWrapper className='dialogs-wrapper'>Dialogs</DialogsWrapper>
+            <DialogsWrapper className='dialogs-wrapper'>Dialogs with test reset</DialogsWrapper>
         </>
     );
 };
